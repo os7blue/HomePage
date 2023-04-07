@@ -1,42 +1,42 @@
 {
 	"head": {
-		"title": "一个坏掉的番茄",
-		"description": "Author:SimonMa,Category:Personal Blog",
+		"title": "os7blue",
+		"description": "os7blue个人首页",
 		"favicon": "favicon.ico"
 	},
 	"intro": {
-		"title": "Simon Ma",
-		"subtitle": "Front back left right end engineer",
-		"enter": "enter",
-		"supportAuthor": true,
+		"title": "os7blue",
+		"subtitle": "万物皆虚，万事皆允。",
+		"enter": "进入首页",
+		"supportAuthor": false,
 		"background": true
 	},
 	"main": {
-		"name": "Simon Ma",
-		"signature": "Code & Input & Output",
+		"name": "os7blue",
+		"signature": "万物皆虚，万事皆允。",
 		"avatar": {
-			"link": "assets/avatar.jpg",
+			"link": "https://picx.zhimg.com/v2-69edb9c3f9eafe35b38446b4ba2f3992_l.jpg?source=32738c0c",
 			"height": "100",
 			"width": "100"
 		},
 		"ul": {
 			"first": {
-				"href": "blog/",
+				"href": "",
 				"icon": "bokeyuan",
 				"text": "Blog"
 			},
 			"second": {
-				"href": "about/",
+				"href": "",
 				"icon": "xiaolian",
 				"text": "About"
 			},
 			"third": {
-				"href": "mailto:simon@tomotoes.com",
+				"href": "mailto:os7blue@163.com",
 				"icon": "email",
 				"text": "Email"
 			},
 			"fourth": {
-				"href": "https://github.com/tomotoes",
+				"href": "https://github.com/os7blue",
 				"icon": "github",
 				"text": "Github"
 			}
